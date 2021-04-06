@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="parkour" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group id="slideRange" width="600" height="360" x="0" y="360" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Button id="slide" label="" x="102" y="156.33" scaleX="1" scaleY="1">
+			<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="slide01_png" source.down="slide02_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+			</e:skinName>
+		</e:Button>
+	</e:Group>
+	<e:Button id="jump" label="" x="1019.33" y="516.33" scaleX="1" scaleY="1">
+		<e:skinName>
+		<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="jump01_png" source.down="jump02_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+		</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Image id="label1" source="label1_png" x="10" y="20"/>
+	<e:Label id="fraction" text="" x="20" y="25" size="30" verticalAlign="middle" textAlign="center" width="220" height="50" anchorOffsetX="0" anchorOffsetY="0" textColor="0x0ef7e8"/>
+	<e:Label text="分" x="243" y="25" height="50" verticalAlign="middle" textAlign="center" width="40"/>
+	<e:Image id="label2" source="label2_png" x="10" y="100"/>
+	<e:Image id="coin" source="coin1_png" x="15" y="110"/>
+	<e:Label id="coinNum" text="" x="58" y="105" textColor="0xe6e80d" size="30" height="50" anchorOffsetX="0" width="160" verticalAlign="middle" textAlign="center"/>
+	<e:Image source="label1_png" x="360" y="20"/>
+	<e:Label text="表现" x="365" y="25" height="50" verticalAlign="middle" textAlign="center"/>
+	<e:Label id="performanceScore" text="" x="425" y="25" height="50" width="170" verticalAlign="middle" textAlign="center" textColor="0xfdff02"/>
+	<e:Label text="分" x="595" y="25" height="50" verticalAlign="middle" textAlign="center" width="40"/>
+	<e:Image source="label2_png" x="715" y="20"/>
+	<e:Label id="distance" text="" x="720" y="25" size="30" verticalAlign="middle" textAlign="center" width="170" height="50" anchorOffsetX="0" anchorOffsetY="0" textColor="0xf9f107"/>
+	<e:Label text="米" x="895" y="25" height="50" verticalAlign="middle"/>
+	<e:Button id="stopBtn" label="" x="1060" y="20">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="stop_png" source.down="stop_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:ToggleButton id="setMusic" label="" x="1180" y="20" width="80" height="79">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="music_png" source.down="music01_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:ToggleButton>
+</e:Skin>

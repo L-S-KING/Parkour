@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="key" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group id="groupLeft" width="300" height="360" x="0" y="360">
+		<e:Button id="btnLeft" label="" x="50" y="180" enabled="true" scaleX="1" scaleY="1">
+			<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="btnLeft01_png" source.down="btnLeft_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+			</e:skinName>
+		</e:Button>
+	</e:Group>
+	<e:Group id="groupRight" width="300" height="360" x="300" y="360">
+		<e:Button id="btnRight" label="" x="50" y="180" enabled="true" scaleX="1" scaleY="1">
+			<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="btnRight01_png" source.down="btnRight_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+			</e:skinName>
+		</e:Button>
+	</e:Group>
+	<e:Image id="skill1" source="btnSkill_png" x="1100" y="331"/>
+	<e:Image id="skill2" source="btnSkill_png" x="1100" y="450"/>
+	<e:Image id="skill3" source="btnSkill_png" x="1100" y="580"/>
+	<e:ProgressBar id="fighterHp" width="245" height="45" x="582.6" y="75" skinName="BossHp" value="100" rotation="179.74"/>
+	<e:ProgressBar id="bossHp" width="245" height="45" x="700" y="30" skinName="BossHp" value="100" anchorOffsetY="0"/>
+	<e:Image source="bossHpStrip_png" x="640" y="20"/>
+	<e:Image source="fighterHpStrip_png" x="280" y="20"/>
+	<e:Button id="back" label="" x="29" y="29">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="btnBack_png" source.down="btnBack01_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="stopPk" label="" x="1070" y="34.5">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="stop_png" source.down="stop_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:ToggleButton id="setMusic" label="" x="1183" y="35.5" width="80" height="79">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="music_png" source.down="music01_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:ToggleButton>
+</e:Skin>

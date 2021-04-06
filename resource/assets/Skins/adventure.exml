@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="adventure" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="bg_jpg" x="0" y="0"/>
+	<e:Button id="btnBack" label="" x="20" y="20">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="btnBack_png" source.down="btnBack01_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="btnStart" label="" x="490.5" y="553.67">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="adventureStart_png" source.down="adventureStart01_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Image source="fighterBg_png" x="280" y="130"/>
+	<e:Image source="fighterBg_png" x="680" y="130"/>
+	<e:Image source="fighter1_png" x="682.5" y="140"/>
+	<e:Image source="fighter10_png" x="309" y="140"/>
+	<e:Image id="fighterLock" source="53_png" x="799" y="265.5"/>
+	<e:ToggleButton id="setMusic" label="" x="1180" y="20">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="music_png" source.down="music01_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:ToggleButton>
+	<e:Image source="level1_png" x="1118" y="140"/>
+	<e:Image id="level1" x="1100" y="130" source="level_png"/>
+	<e:Image source="level2_png" x="1118" y="285"/>
+	<e:Image id="lockLevel2" source="levelBg_png" x="1100" y="275"/>
+	<e:Image id="level2" x="1100" y="275" source="level_png"/>
+	<e:Image source="level3_png" x="1118" y="420"/>
+	<e:Image id="lockLevel3" source="levelBg_png" x="1100" y="410"/>
+	<e:Image id="level3" x="1100" y="410" source="level_png"/>
+</e:Skin>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="fail" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="fighterBg_png" x="462.67" y="150" width="420" height="420"/>
+	<e:Image id="fail" source="fail_png" x="672.67" y="246" anchorOffsetX="180" anchorOffsetY="180" scaleX="0" scaleY="0"/>
+	<e:Button id="end" label="" x="575.67" y="442.33">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="end14_png" source.down="end15_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+</e:Skin>

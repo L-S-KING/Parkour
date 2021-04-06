@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BossHp" minWidth="30" minHeight="18" xmlns:e="http://ns.egret.com/eui" width="245" height="45">
+	<e:Image scale9Grid="1,1,4,4" width="245"
+			 height="45" verticalCenter="0" anchorOffsetX="0" anchorOffsetY="0" source="hpBg_png"/>
+	<e:Image id="thumb" height="100%" width="100%" source="hp_png"/>
+	<e:Label id="labelDisplay" textAlign="center" verticalAlign="middle"
+			 size="15" fontFamily="Tahoma" textColor="0x707070"
+			 horizontalCenter="0" verticalCenter="0" visible="false"/>
+</e:Skin>

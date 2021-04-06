@@ -1,0 +1,2700 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,description_json,player11_png,player110_png,player111_png,player112_png,player12_png,player13_png,player14_png,player15_png,player16_png,player17_png,player18_png,player19_png,player21_png,player210_png,player211_png,player212_png,player22_png,player23_png,player24_png,player25_png,player26_png,player27_png,player28_png,player29_png,player31_png,player310_png,player311_png,player32_png,player33_png,player34_png,player35_png,player36_png,player37_png,player38_png,player39_png,player41_png,player410_png,player411_png,player412_png,player42_png,player43_png,player44_png,player45_png,player46_png,player47_png,player48_png,player49_png,player318_png,player3102_png,player3112_png,player322_png,player332_png,player342_png,player352_png,player362_png,player372_png,player382_png,player392_png,player419_png,player4102_png,player4112_png,player4122_png,player422_png,player432_png,player442_png,player452_png,player462_png,player472_png,player482_png,player492_png,player113_png,player1102_png,player1112_png,player1122_png,player122_png,player132_png,player142_png,player152_png,player162_png,player172_png,player182_png,player192_png,player219_png,player2102_png,player2112_png,player2122_png,player222_png,player232_png,player242_png,player252_png,player262_png,player272_png,player282_png,player292_png,player319_png,player3103_png,player3113_png,player323_png,player333_png,player343_png,player353_png,player363_png,player373_png,player383_png,player393_png,player312_png,slide3_png,jump31_png,jump32_png,jump33_png,jump34_png,jump35_png,jump21_png,jump22_png,jump23_png,jump24_png,jump25_png,jump41_png,jump42_png,jump43_png,jump44_png,jump45_png,slide4_png,slide2_png,slide1_png,coin1_png,coin2_png,coin3_png,go_txt,hello_txt,item1_png,item3_png,item4_png,shield_png,sprint_png,blame1_png,blame2_png,floor1_png,floor_txt,floor2_png,item2_png,obstacle1_png,obstacle2_png,obstacle3_png,obstacle4_png,obstacle5_png,meteor_png,bg_jpg,btnRight01_png,btnLeft_png,btnLeft01_png,btnRight_png,btnSkill01_png,btnSkill_png,effect11_png,effect12_png,effect13_png,effect14_png,effect21_png,effect22_png,effect23_png,effect24_png,effect25_png,effect31_png,effect32_png,effect33_png,effect34_png,effect41_png,effect42_png,effect43_png,effect44_png,effect51_png,effect52_png,effect53_png,effect54_png,effect61_png,effect62_png,effect63_png,effect64_png,fighter131_png,fighter132_png,fighter133_png,fighter134_png,fighter135_png,fighter136_png,fighter137_png,fighter138_png,fighter139_png,fighter1310_png,fighter1311_png,fighter1312_png,fighter1313_png,fighter1314_png,fighter1315_png,fighter1316_png,fighter1317_png,fighter1318_png,fighter1319_png,fighter1320_png,fighter1321_png,fighter1322_png,fighter1323_png,fighter1324_png,fighter1325_png,fighter1326_png,fighter1327_png,fighter1328_png,fighter1329_png,effect81_png,effect82_png,effect83_png,effect84_png,effect85_png,effect91_png,effect92_png,effect93_png,effect94_png,effect95_png,effect96_png,effect97_png,effect98_png,fighter111_png,fighter112_png,fighter113_png,fighter114_png,fighter115_png,fighter121_png,fighter122_png,fighter123_png,fighter124_png,fighter125_png,fighter126_png,fighter127_png,fighter101_png,fighter201_png,fighter202_png,fighter203_png,fighter204_png,fighter205_png,fighter211_png,fighter212_png,fighter213_png,fighter214_png,fighter215_png,fighter216_png,fighter217_png,fighter221_png,fighter222_png,fighter223_png,fighter224_png,fighter225_png,fighter226_png,fighter227_png,fighter231_png,fighter232_png,fighter233_png,fighter234_png,fighter235_png,fighter236_png,effect101_png,effect102_png,effect103_png,effect104_png,effect105_png,effect106_png,effect107_png,effect108_png,effect109_png,effect1010_png,effect111_png,effect112_png,effect113_png,effect114_png,effect115_png,effect116_png,effect117_png,effect118_png,effect119_png,effect1110_png,effect1111_png,fighter229_png,fighter228_png,effect123_png,effect121_png,effect122_png,effect124_png,effect71_png,boss4 (20)_png,boss4 (21)_png,boss4 (22)_png,boss111_png,boss112_png,boss113_png,boss114_png,boss115_png,boss116_png,boss117_png,boss118_png,boss121_png,boss122_png,boss123_png,boss124_png,boss211_png,boss212_png,boss213_png,boss214_png,boss215_png,boss216_png,boss217_png,boss218_png,boss221_png,boss222_png,boss223_png,boss224_png,boss225_png,boss226_png,boss227_png,boss231_png,boss232_png,boss233_png,boss234_png,boss235_png,boss236_png,boss237_png,boss125_png,boss126_png,boss127_png,boss128_png,boss129_png,boss131_png,boss132_png,boss101_png,boss102_png,boss201_png,boss202_png,boss203_png,boss301_png,boss302_png,boss303_png,boss311_png,boss312_png,boss313_png,boss314_png,boss331_png,boss332_png,boss333_png,boss334_png,boss335_png,boss322_png,effect141_png,effect142_png,effect143_png,effect144_png,effect145_png,effect146_png,effect147_png,effect148_png,effect151_png,effect152_png,effect153_png,effect154_png,effect155_png,effect156_png,effect157_png,effect158_png,effect159_png,Image-628_png,Image-630_png,Image-634_png,boss321_png,effect171_png,effect172_png,effect173_png,effect174_png,effect175_png,effect176_png,effect1612_png,effect162_png,effect163_png,effect164_png,effect165_png,effect166_png,effect167_png,effect181_png,effect182_png,effect183_png,effect184_png,effect191_png,effect192_png,effect193_png,effect194_png,effect195_png,effect196_png,effect197_png,effect198_png,effect185_png,effect186_png,boss103_png,bg11_jpg,bg21_jpg,bg10_jpg,stopBg_png,cd89dbc007db5f1cba776e11f8488c73_png,asu_cut2out_png,left01_png,right001_png,bg31_jpg,bg20_jpg,bg30_jpg,menu1_png,menu2_png,menu3_png,menu4_png,player1_png,player4_png,player2_png,player3_png,bgClassic_png,bgPlayer_png,classicLeft_png,classicRight_png,classicStart_png,classicLeft01_png,classicRight01_png,53_png,classicItmeBg_png,classicItme_png,classicSprint_png,classicShield_png,classicDraw_png,btnBack_png,fighter1_png,buy_png,buy01_png,classicStart01_png,menu41_png,menu31_png,adventureStart01_png,adventureStart_png,btnBack01_png,end1_png,end2_png,end3_png,end4_png,end7_png,end8_png,end5_png,end6_png,end9_png,menu51_png,menu5_png,shop1_png,shop2_png,shop3_png,shop4_png,shop5_png,shop6_png,shop7_png,end10_png,end11_png,end12_png,end13_png,end15_png,end14_png,boss228_png,boss229_png,jump01_png,jump02_png,rocker1_png,rocker2_png,slide01_png,slide02_png,stop_png,agian_png,continue_png,label1_png,label2_png,menu_png,bossHpStrip_png,fighterHpStrip_png,bossBg1_jpg,bossBg2_jpg,hpBg_png,hp_png,effect131_png,effect132_png,effect133_png,effect134_png,effect135_png,effect136_png,effect137_png,effect138_png,fighter10_png,fighterBg_png,shop8_png,grass_png,grassLand_png,land_png,loadBg_jpg,bgMusic_mp3,runMusic_mp3,music_png,music01_png,pkMusicBg_mp3,pkMusic_mp3,stop01_png,level_png,level2_png,level3_png,level1_png,levelBg_png,levelEffect_png,success_png,fail_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "player11_png",
+			"type": "image",
+			"url": "assets/Player/1/player11.png"
+		},
+		{
+			"name": "player110_png",
+			"type": "image",
+			"url": "assets/Player/1/player110.png"
+		},
+		{
+			"name": "player111_png",
+			"type": "image",
+			"url": "assets/Player/1/player111.png"
+		},
+		{
+			"name": "player112_png",
+			"type": "image",
+			"url": "assets/Player/1/player112.png"
+		},
+		{
+			"name": "player12_png",
+			"type": "image",
+			"url": "assets/Player/1/player12.png"
+		},
+		{
+			"name": "player13_png",
+			"type": "image",
+			"url": "assets/Player/1/player13.png"
+		},
+		{
+			"name": "player14_png",
+			"type": "image",
+			"url": "assets/Player/1/player14.png"
+		},
+		{
+			"name": "player15_png",
+			"type": "image",
+			"url": "assets/Player/1/player15.png"
+		},
+		{
+			"name": "player16_png",
+			"type": "image",
+			"url": "assets/Player/1/player16.png"
+		},
+		{
+			"name": "player17_png",
+			"type": "image",
+			"url": "assets/Player/1/player17.png"
+		},
+		{
+			"name": "player18_png",
+			"type": "image",
+			"url": "assets/Player/1/player18.png"
+		},
+		{
+			"name": "player19_png",
+			"type": "image",
+			"url": "assets/Player/1/player19.png"
+		},
+		{
+			"name": "player21_png",
+			"type": "image",
+			"url": "assets/Player/2/player21.png"
+		},
+		{
+			"name": "player210_png",
+			"type": "image",
+			"url": "assets/Player/2/player210.png"
+		},
+		{
+			"name": "player211_png",
+			"type": "image",
+			"url": "assets/Player/2/player211.png"
+		},
+		{
+			"name": "player212_png",
+			"type": "image",
+			"url": "assets/Player/2/player212.png"
+		},
+		{
+			"name": "player22_png",
+			"type": "image",
+			"url": "assets/Player/2/player22.png"
+		},
+		{
+			"name": "player23_png",
+			"type": "image",
+			"url": "assets/Player/2/player23.png"
+		},
+		{
+			"name": "player24_png",
+			"type": "image",
+			"url": "assets/Player/2/player24.png"
+		},
+		{
+			"name": "player25_png",
+			"type": "image",
+			"url": "assets/Player/2/player25.png"
+		},
+		{
+			"name": "player26_png",
+			"type": "image",
+			"url": "assets/Player/2/player26.png"
+		},
+		{
+			"name": "player27_png",
+			"type": "image",
+			"url": "assets/Player/2/player27.png"
+		},
+		{
+			"name": "player28_png",
+			"type": "image",
+			"url": "assets/Player/2/player28.png"
+		},
+		{
+			"name": "player29_png",
+			"type": "image",
+			"url": "assets/Player/2/player29.png"
+		},
+		{
+			"name": "player31_png",
+			"type": "image",
+			"url": "assets/Player/3/player31.png"
+		},
+		{
+			"name": "player310_png",
+			"type": "image",
+			"url": "assets/Player/3/player310.png"
+		},
+		{
+			"name": "player311_png",
+			"type": "image",
+			"url": "assets/Player/3/player311.png"
+		},
+		{
+			"name": "player32_png",
+			"type": "image",
+			"url": "assets/Player/3/player32.png"
+		},
+		{
+			"name": "player33_png",
+			"type": "image",
+			"url": "assets/Player/3/player33.png"
+		},
+		{
+			"name": "player34_png",
+			"type": "image",
+			"url": "assets/Player/3/player34.png"
+		},
+		{
+			"name": "player35_png",
+			"type": "image",
+			"url": "assets/Player/3/player35.png"
+		},
+		{
+			"name": "player36_png",
+			"type": "image",
+			"url": "assets/Player/3/player36.png"
+		},
+		{
+			"name": "player37_png",
+			"type": "image",
+			"url": "assets/Player/3/player37.png"
+		},
+		{
+			"name": "player38_png",
+			"type": "image",
+			"url": "assets/Player/3/player38.png"
+		},
+		{
+			"name": "player39_png",
+			"type": "image",
+			"url": "assets/Player/3/player39.png"
+		},
+		{
+			"name": "player41_png",
+			"type": "image",
+			"url": "assets/Player/4/player41.png"
+		},
+		{
+			"name": "player410_png",
+			"type": "image",
+			"url": "assets/Player/4/player410.png"
+		},
+		{
+			"name": "player411_png",
+			"type": "image",
+			"url": "assets/Player/4/player411.png"
+		},
+		{
+			"name": "player412_png",
+			"type": "image",
+			"url": "assets/Player/4/player412.png"
+		},
+		{
+			"name": "player42_png",
+			"type": "image",
+			"url": "assets/Player/4/player42.png"
+		},
+		{
+			"name": "player43_png",
+			"type": "image",
+			"url": "assets/Player/4/player43.png"
+		},
+		{
+			"name": "player44_png",
+			"type": "image",
+			"url": "assets/Player/4/player44.png"
+		},
+		{
+			"name": "player45_png",
+			"type": "image",
+			"url": "assets/Player/4/player45.png"
+		},
+		{
+			"name": "player46_png",
+			"type": "image",
+			"url": "assets/Player/4/player46.png"
+		},
+		{
+			"name": "player47_png",
+			"type": "image",
+			"url": "assets/Player/4/player47.png"
+		},
+		{
+			"name": "player48_png",
+			"type": "image",
+			"url": "assets/Player/4/player48.png"
+		},
+		{
+			"name": "player49_png",
+			"type": "image",
+			"url": "assets/Player/4/player49.png"
+		},
+		{
+			"name": "player318_png",
+			"type": "image",
+			"url": "assets/Player/3/player31.png"
+		},
+		{
+			"name": "player3102_png",
+			"type": "image",
+			"url": "assets/Player/3/player310.png"
+		},
+		{
+			"name": "player3112_png",
+			"type": "image",
+			"url": "assets/Player/3/player311.png"
+		},
+		{
+			"name": "player322_png",
+			"type": "image",
+			"url": "assets/Player/3/player32.png"
+		},
+		{
+			"name": "player332_png",
+			"type": "image",
+			"url": "assets/Player/3/player33.png"
+		},
+		{
+			"name": "player342_png",
+			"type": "image",
+			"url": "assets/Player/3/player34.png"
+		},
+		{
+			"name": "player352_png",
+			"type": "image",
+			"url": "assets/Player/3/player35.png"
+		},
+		{
+			"name": "player362_png",
+			"type": "image",
+			"url": "assets/Player/3/player36.png"
+		},
+		{
+			"name": "player372_png",
+			"type": "image",
+			"url": "assets/Player/3/player37.png"
+		},
+		{
+			"name": "player382_png",
+			"type": "image",
+			"url": "assets/Player/3/player38.png"
+		},
+		{
+			"name": "player392_png",
+			"type": "image",
+			"url": "assets/Player/3/player39.png"
+		},
+		{
+			"name": "player419_png",
+			"type": "image",
+			"url": "assets/Player/4/player41.png"
+		},
+		{
+			"name": "player4102_png",
+			"type": "image",
+			"url": "assets/Player/4/player410.png"
+		},
+		{
+			"name": "player4112_png",
+			"type": "image",
+			"url": "assets/Player/4/player411.png"
+		},
+		{
+			"name": "player4122_png",
+			"type": "image",
+			"url": "assets/Player/4/player412.png"
+		},
+		{
+			"name": "player422_png",
+			"type": "image",
+			"url": "assets/Player/4/player42.png"
+		},
+		{
+			"name": "player432_png",
+			"type": "image",
+			"url": "assets/Player/4/player43.png"
+		},
+		{
+			"name": "player442_png",
+			"type": "image",
+			"url": "assets/Player/4/player44.png"
+		},
+		{
+			"name": "player452_png",
+			"type": "image",
+			"url": "assets/Player/4/player45.png"
+		},
+		{
+			"name": "player462_png",
+			"type": "image",
+			"url": "assets/Player/4/player46.png"
+		},
+		{
+			"name": "player472_png",
+			"type": "image",
+			"url": "assets/Player/4/player47.png"
+		},
+		{
+			"name": "player482_png",
+			"type": "image",
+			"url": "assets/Player/4/player48.png"
+		},
+		{
+			"name": "player492_png",
+			"type": "image",
+			"url": "assets/Player/4/player49.png"
+		},
+		{
+			"name": "player113_png",
+			"type": "image",
+			"url": "assets/Player/1/player11.png"
+		},
+		{
+			"name": "player1102_png",
+			"type": "image",
+			"url": "assets/Player/1/player110.png"
+		},
+		{
+			"name": "player1112_png",
+			"type": "image",
+			"url": "assets/Player/1/player111.png"
+		},
+		{
+			"name": "player1122_png",
+			"type": "image",
+			"url": "assets/Player/1/player112.png"
+		},
+		{
+			"name": "player122_png",
+			"type": "image",
+			"url": "assets/Player/1/player12.png"
+		},
+		{
+			"name": "player132_png",
+			"type": "image",
+			"url": "assets/Player/1/player13.png"
+		},
+		{
+			"name": "player142_png",
+			"type": "image",
+			"url": "assets/Player/1/player14.png"
+		},
+		{
+			"name": "player152_png",
+			"type": "image",
+			"url": "assets/Player/1/player15.png"
+		},
+		{
+			"name": "player162_png",
+			"type": "image",
+			"url": "assets/Player/1/player16.png"
+		},
+		{
+			"name": "player172_png",
+			"type": "image",
+			"url": "assets/Player/1/player17.png"
+		},
+		{
+			"name": "player182_png",
+			"type": "image",
+			"url": "assets/Player/1/player18.png"
+		},
+		{
+			"name": "player192_png",
+			"type": "image",
+			"url": "assets/Player/1/player19.png"
+		},
+		{
+			"name": "player219_png",
+			"type": "image",
+			"url": "assets/Player/2/player21.png"
+		},
+		{
+			"name": "player2102_png",
+			"type": "image",
+			"url": "assets/Player/2/player210.png"
+		},
+		{
+			"name": "player2112_png",
+			"type": "image",
+			"url": "assets/Player/2/player211.png"
+		},
+		{
+			"name": "player2122_png",
+			"type": "image",
+			"url": "assets/Player/2/player212.png"
+		},
+		{
+			"name": "player222_png",
+			"type": "image",
+			"url": "assets/Player/2/player22.png"
+		},
+		{
+			"name": "player232_png",
+			"type": "image",
+			"url": "assets/Player/2/player23.png"
+		},
+		{
+			"name": "player242_png",
+			"type": "image",
+			"url": "assets/Player/2/player24.png"
+		},
+		{
+			"name": "player252_png",
+			"type": "image",
+			"url": "assets/Player/2/player25.png"
+		},
+		{
+			"name": "player262_png",
+			"type": "image",
+			"url": "assets/Player/2/player26.png"
+		},
+		{
+			"name": "player272_png",
+			"type": "image",
+			"url": "assets/Player/2/player27.png"
+		},
+		{
+			"name": "player282_png",
+			"type": "image",
+			"url": "assets/Player/2/player28.png"
+		},
+		{
+			"name": "player292_png",
+			"type": "image",
+			"url": "assets/Player/2/player29.png"
+		},
+		{
+			"name": "player319_png",
+			"type": "image",
+			"url": "assets/Player/3/player31.png"
+		},
+		{
+			"name": "player3103_png",
+			"type": "image",
+			"url": "assets/Player/3/player310.png"
+		},
+		{
+			"name": "player3113_png",
+			"type": "image",
+			"url": "assets/Player/3/player311.png"
+		},
+		{
+			"name": "player323_png",
+			"type": "image",
+			"url": "assets/Player/3/player32.png"
+		},
+		{
+			"name": "player333_png",
+			"type": "image",
+			"url": "assets/Player/3/player33.png"
+		},
+		{
+			"name": "player343_png",
+			"type": "image",
+			"url": "assets/Player/3/player34.png"
+		},
+		{
+			"name": "player353_png",
+			"type": "image",
+			"url": "assets/Player/3/player35.png"
+		},
+		{
+			"name": "player363_png",
+			"type": "image",
+			"url": "assets/Player/3/player36.png"
+		},
+		{
+			"name": "player373_png",
+			"type": "image",
+			"url": "assets/Player/3/player37.png"
+		},
+		{
+			"name": "player383_png",
+			"type": "image",
+			"url": "assets/Player/3/player38.png"
+		},
+		{
+			"name": "player393_png",
+			"type": "image",
+			"url": "assets/Player/3/player39.png"
+		},
+		{
+			"name": "player312_png",
+			"type": "image",
+			"url": "assets/Player/3/player312.png"
+		},
+		{
+			"name": "slide3_png",
+			"type": "image",
+			"url": "assets/Player/3/slide3.png"
+		},
+		{
+			"name": "jump31_png",
+			"type": "image",
+			"url": "assets/Player/3/jump31.png"
+		},
+		{
+			"name": "jump32_png",
+			"type": "image",
+			"url": "assets/Player/3/jump32.png"
+		},
+		{
+			"name": "jump33_png",
+			"type": "image",
+			"url": "assets/Player/3/jump33.png"
+		},
+		{
+			"name": "jump34_png",
+			"type": "image",
+			"url": "assets/Player/3/jump34.png"
+		},
+		{
+			"name": "jump35_png",
+			"type": "image",
+			"url": "assets/Player/3/jump35.png"
+		},
+		{
+			"name": "jump21_png",
+			"type": "image",
+			"url": "assets/Player/2/jump21.png"
+		},
+		{
+			"name": "jump22_png",
+			"type": "image",
+			"url": "assets/Player/2/jump22.png"
+		},
+		{
+			"name": "jump23_png",
+			"type": "image",
+			"url": "assets/Player/2/jump23.png"
+		},
+		{
+			"name": "jump24_png",
+			"type": "image",
+			"url": "assets/Player/2/jump24.png"
+		},
+		{
+			"name": "jump25_png",
+			"type": "image",
+			"url": "assets/Player/2/jump25.png"
+		},
+		{
+			"name": "jump41_png",
+			"type": "image",
+			"url": "assets/Player/4/jump41.png"
+		},
+		{
+			"name": "jump42_png",
+			"type": "image",
+			"url": "assets/Player/4/jump42.png"
+		},
+		{
+			"name": "jump43_png",
+			"type": "image",
+			"url": "assets/Player/4/jump43.png"
+		},
+		{
+			"name": "jump44_png",
+			"type": "image",
+			"url": "assets/Player/4/jump44.png"
+		},
+		{
+			"name": "jump45_png",
+			"type": "image",
+			"url": "assets/Player/4/jump45.png"
+		},
+		{
+			"name": "slide4_png",
+			"type": "image",
+			"url": "assets/Player/4/slide4.png"
+		},
+		{
+			"name": "slide2_png",
+			"type": "image",
+			"url": "assets/Player/2/slide2.png"
+		},
+		{
+			"name": "slide1_png",
+			"type": "image",
+			"url": "assets/Player/1/slide1.png"
+		},
+		{
+			"name": "coin1_png",
+			"type": "image",
+			"url": "assets/Coin/coin1.png"
+		},
+		{
+			"name": "coin2_png",
+			"type": "image",
+			"url": "assets/Coin/coin2.png"
+		},
+		{
+			"name": "coin3_png",
+			"type": "image",
+			"url": "assets/Coin/coin3.png"
+		},
+		{
+			"name": "go_txt",
+			"type": "text",
+			"url": "config/go.txt"
+		},
+		{
+			"name": "hello_txt",
+			"type": "text",
+			"url": "config/hello.txt"
+		},
+		{
+			"name": "item1_png",
+			"type": "image",
+			"url": "assets/Item/item1.png"
+		},
+		{
+			"name": "item3_png",
+			"type": "image",
+			"url": "assets/Item/item3.png"
+		},
+		{
+			"name": "item4_png",
+			"type": "image",
+			"url": "assets/Item/item4.png"
+		},
+		{
+			"name": "shield_png",
+			"type": "image",
+			"url": "assets/Item/shield.png"
+		},
+		{
+			"name": "sprint_png",
+			"type": "image",
+			"url": "assets/Item/sprint.png"
+		},
+		{
+			"name": "blame1_png",
+			"type": "image",
+			"url": "assets/Blame/blame1.png"
+		},
+		{
+			"name": "blame2_png",
+			"type": "image",
+			"url": "assets/Blame/blame2.png"
+		},
+		{
+			"name": "floor1_png",
+			"type": "image",
+			"url": "assets/Floor/floor1.png"
+		},
+		{
+			"name": "floor_txt",
+			"type": "text",
+			"url": "config/floor.txt"
+		},
+		{
+			"name": "floor2_png",
+			"type": "image",
+			"url": "assets/Floor/floor2.png"
+		},
+		{
+			"name": "item2_png",
+			"type": "image",
+			"url": "assets/Item/item2.png"
+		},
+		{
+			"name": "obstacle1_png",
+			"type": "image",
+			"url": "assets/Obstacle/obstacle1.png"
+		},
+		{
+			"name": "obstacle2_png",
+			"type": "image",
+			"url": "assets/Obstacle/obstacle2.png"
+		},
+		{
+			"name": "obstacle3_png",
+			"type": "image",
+			"url": "assets/Obstacle/obstacle3.png"
+		},
+		{
+			"name": "obstacle4_png",
+			"type": "image",
+			"url": "assets/Obstacle/obstacle4.png"
+		},
+		{
+			"name": "obstacle5_png",
+			"type": "image",
+			"url": "assets/Obstacle/obstacle5.png"
+		},
+		{
+			"name": "meteor_png",
+			"type": "image",
+			"url": "assets/Item/meteor.png"
+		},
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/Bg/bg.jpg"
+		},
+		{
+			"name": "btnRight01_png",
+			"type": "image",
+			"url": "assets/Key/btnRight01.png"
+		},
+		{
+			"name": "btnLeft_png",
+			"type": "image",
+			"url": "assets/Key/btnLeft.png"
+		},
+		{
+			"name": "btnLeft01_png",
+			"type": "image",
+			"url": "assets/Key/btnLeft01.png"
+		},
+		{
+			"name": "btnRight_png",
+			"type": "image",
+			"url": "assets/Key/btnRight.png"
+		},
+		{
+			"name": "btnSkill01_png",
+			"type": "image",
+			"url": "assets/Key/btnSkill01.png"
+		},
+		{
+			"name": "btnSkill_png",
+			"type": "image",
+			"url": "assets/Key/btnSkill.png"
+		},
+		{
+			"name": "effect11_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect11.png"
+		},
+		{
+			"name": "effect12_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect12.png"
+		},
+		{
+			"name": "effect13_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect13.png"
+		},
+		{
+			"name": "effect14_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect14.png"
+		},
+		{
+			"name": "effect21_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect21.png"
+		},
+		{
+			"name": "effect22_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect22.png"
+		},
+		{
+			"name": "effect23_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect23.png"
+		},
+		{
+			"name": "effect24_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect24.png"
+		},
+		{
+			"name": "effect25_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect25.png"
+		},
+		{
+			"name": "effect31_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect31.png"
+		},
+		{
+			"name": "effect32_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect32.png"
+		},
+		{
+			"name": "effect33_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect33.png"
+		},
+		{
+			"name": "effect34_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect34.png"
+		},
+		{
+			"name": "effect41_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect41.png"
+		},
+		{
+			"name": "effect42_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect42.png"
+		},
+		{
+			"name": "effect43_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect43.png"
+		},
+		{
+			"name": "effect44_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect44.png"
+		},
+		{
+			"name": "effect51_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect51.png"
+		},
+		{
+			"name": "effect52_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect52.png"
+		},
+		{
+			"name": "effect53_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect53.png"
+		},
+		{
+			"name": "effect54_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect54.png"
+		},
+		{
+			"name": "effect61_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect61.png"
+		},
+		{
+			"name": "effect62_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect62.png"
+		},
+		{
+			"name": "effect63_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect63.png"
+		},
+		{
+			"name": "effect64_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect64.png"
+		},
+		{
+			"name": "fighter131_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter131.png"
+		},
+		{
+			"name": "fighter132_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter132.png"
+		},
+		{
+			"name": "fighter133_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter133.png"
+		},
+		{
+			"name": "fighter134_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter134.png"
+		},
+		{
+			"name": "fighter135_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter135.png"
+		},
+		{
+			"name": "fighter136_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter136.png"
+		},
+		{
+			"name": "fighter137_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter137.png"
+		},
+		{
+			"name": "fighter138_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter138.png"
+		},
+		{
+			"name": "fighter139_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter139.png"
+		},
+		{
+			"name": "fighter1310_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter1310.png"
+		},
+		{
+			"name": "fighter1311_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter1311.png"
+		},
+		{
+			"name": "fighter1312_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter1312.png"
+		},
+		{
+			"name": "fighter1313_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter1313.png"
+		},
+		{
+			"name": "fighter1314_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter1314.png"
+		},
+		{
+			"name": "fighter1315_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter1315.png"
+		},
+		{
+			"name": "fighter1316_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter1316.png"
+		},
+		{
+			"name": "fighter1317_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter1317.png"
+		},
+		{
+			"name": "fighter1318_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter1318.png"
+		},
+		{
+			"name": "fighter1319_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter1319.png"
+		},
+		{
+			"name": "fighter1320_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter1320.png"
+		},
+		{
+			"name": "fighter1321_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter1321.png"
+		},
+		{
+			"name": "fighter1322_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter1322.png"
+		},
+		{
+			"name": "fighter1323_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter1323.png"
+		},
+		{
+			"name": "fighter1324_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter1324.png"
+		},
+		{
+			"name": "fighter1325_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter1325.png"
+		},
+		{
+			"name": "fighter1326_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter1326.png"
+		},
+		{
+			"name": "fighter1327_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter1327.png"
+		},
+		{
+			"name": "fighter1328_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter1328.png"
+		},
+		{
+			"name": "fighter1329_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter1329.png"
+		},
+		{
+			"name": "effect81_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect81.png"
+		},
+		{
+			"name": "effect82_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect82.png"
+		},
+		{
+			"name": "effect83_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect83.png"
+		},
+		{
+			"name": "effect84_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect84.png"
+		},
+		{
+			"name": "effect85_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect85.png"
+		},
+		{
+			"name": "effect91_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect91.png"
+		},
+		{
+			"name": "effect92_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect92.png"
+		},
+		{
+			"name": "effect93_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect93.png"
+		},
+		{
+			"name": "effect94_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect94.png"
+		},
+		{
+			"name": "effect95_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect95.png"
+		},
+		{
+			"name": "effect96_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect96.png"
+		},
+		{
+			"name": "effect97_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect97.png"
+		},
+		{
+			"name": "effect98_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/effect98.png"
+		},
+		{
+			"name": "fighter111_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter111.png"
+		},
+		{
+			"name": "fighter112_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter112.png"
+		},
+		{
+			"name": "fighter113_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter113.png"
+		},
+		{
+			"name": "fighter114_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter114.png"
+		},
+		{
+			"name": "fighter115_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter115.png"
+		},
+		{
+			"name": "fighter121_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter121.png"
+		},
+		{
+			"name": "fighter122_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter122.png"
+		},
+		{
+			"name": "fighter123_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter123.png"
+		},
+		{
+			"name": "fighter124_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter124.png"
+		},
+		{
+			"name": "fighter125_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter125.png"
+		},
+		{
+			"name": "fighter126_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter126.png"
+		},
+		{
+			"name": "fighter127_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter127.png"
+		},
+		{
+			"name": "fighter101_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter1/fighter101.png"
+		},
+		{
+			"name": "fighter201_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter201.png"
+		},
+		{
+			"name": "fighter202_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter202.png"
+		},
+		{
+			"name": "fighter203_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter203.png"
+		},
+		{
+			"name": "fighter204_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter204.png"
+		},
+		{
+			"name": "fighter205_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter205.png"
+		},
+		{
+			"name": "fighter211_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter211.png"
+		},
+		{
+			"name": "fighter212_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter212.png"
+		},
+		{
+			"name": "fighter213_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter213.png"
+		},
+		{
+			"name": "fighter214_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter214.png"
+		},
+		{
+			"name": "fighter215_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter215.png"
+		},
+		{
+			"name": "fighter216_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter216.png"
+		},
+		{
+			"name": "fighter217_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter217.png"
+		},
+		{
+			"name": "fighter221_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter221.png"
+		},
+		{
+			"name": "fighter222_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter222.png"
+		},
+		{
+			"name": "fighter223_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter223.png"
+		},
+		{
+			"name": "fighter224_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter224.png"
+		},
+		{
+			"name": "fighter225_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter225.png"
+		},
+		{
+			"name": "fighter226_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter226.png"
+		},
+		{
+			"name": "fighter227_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter227.png"
+		},
+		{
+			"name": "fighter231_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter231.png"
+		},
+		{
+			"name": "fighter232_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter232.png"
+		},
+		{
+			"name": "fighter233_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter233.png"
+		},
+		{
+			"name": "fighter234_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter234.png"
+		},
+		{
+			"name": "fighter235_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter235.png"
+		},
+		{
+			"name": "fighter236_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter236.png"
+		},
+		{
+			"name": "effect101_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect101.png"
+		},
+		{
+			"name": "effect102_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect102.png"
+		},
+		{
+			"name": "effect103_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect103.png"
+		},
+		{
+			"name": "effect104_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect104.png"
+		},
+		{
+			"name": "effect105_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect105.png"
+		},
+		{
+			"name": "effect106_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect106.png"
+		},
+		{
+			"name": "effect107_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect107.png"
+		},
+		{
+			"name": "effect108_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect108.png"
+		},
+		{
+			"name": "effect109_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect109.png"
+		},
+		{
+			"name": "effect1010_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect1010.png"
+		},
+		{
+			"name": "effect111_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect111.png"
+		},
+		{
+			"name": "effect112_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect112.png"
+		},
+		{
+			"name": "effect113_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect113.png"
+		},
+		{
+			"name": "effect114_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect114.png"
+		},
+		{
+			"name": "effect115_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect115.png"
+		},
+		{
+			"name": "effect116_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect116.png"
+		},
+		{
+			"name": "effect117_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect117.png"
+		},
+		{
+			"name": "effect118_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect118.png"
+		},
+		{
+			"name": "effect119_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect119.png"
+		},
+		{
+			"name": "effect1110_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect1110.png"
+		},
+		{
+			"name": "effect1111_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect1111.png"
+		},
+		{
+			"name": "fighter229_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter229.png"
+		},
+		{
+			"name": "fighter228_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/fighter228.png"
+		},
+		{
+			"name": "effect123_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect123.png"
+		},
+		{
+			"name": "effect121_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect121.png"
+		},
+		{
+			"name": "effect122_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect122.png"
+		},
+		{
+			"name": "effect124_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect124.png"
+		},
+		{
+			"name": "effect71_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect71.png"
+		},
+		{
+			"name": "boss4 (20)_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/boss4 (20).png"
+		},
+		{
+			"name": "boss4 (21)_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/boss4 (21).png"
+		},
+		{
+			"name": "boss4 (22)_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/boss4 (22).png"
+		},
+		{
+			"name": "boss111_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss111.png"
+		},
+		{
+			"name": "boss112_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss112.png"
+		},
+		{
+			"name": "boss113_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss113.png"
+		},
+		{
+			"name": "boss114_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss114.png"
+		},
+		{
+			"name": "boss115_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss115.png"
+		},
+		{
+			"name": "boss116_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss116.png"
+		},
+		{
+			"name": "boss117_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss117.png"
+		},
+		{
+			"name": "boss118_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss118.png"
+		},
+		{
+			"name": "boss121_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss121.png"
+		},
+		{
+			"name": "boss122_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss122.png"
+		},
+		{
+			"name": "boss123_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss123.png"
+		},
+		{
+			"name": "boss124_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss124.png"
+		},
+		{
+			"name": "boss211_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss211.png"
+		},
+		{
+			"name": "boss212_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss212.png"
+		},
+		{
+			"name": "boss213_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss213.png"
+		},
+		{
+			"name": "boss214_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss214.png"
+		},
+		{
+			"name": "boss215_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss215.png"
+		},
+		{
+			"name": "boss216_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss216.png"
+		},
+		{
+			"name": "boss217_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss217.png"
+		},
+		{
+			"name": "boss218_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss218.png"
+		},
+		{
+			"name": "boss221_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss221.png"
+		},
+		{
+			"name": "boss222_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss222.png"
+		},
+		{
+			"name": "boss223_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss223.png"
+		},
+		{
+			"name": "boss224_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss224.png"
+		},
+		{
+			"name": "boss225_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss225.png"
+		},
+		{
+			"name": "boss226_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss226.png"
+		},
+		{
+			"name": "boss227_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss227.png"
+		},
+		{
+			"name": "boss231_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss231.png"
+		},
+		{
+			"name": "boss232_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss232.png"
+		},
+		{
+			"name": "boss233_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss233.png"
+		},
+		{
+			"name": "boss234_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss234.png"
+		},
+		{
+			"name": "boss235_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss235.png"
+		},
+		{
+			"name": "boss236_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss236.png"
+		},
+		{
+			"name": "boss237_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss237.png"
+		},
+		{
+			"name": "boss125_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss125.png"
+		},
+		{
+			"name": "boss126_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss126.png"
+		},
+		{
+			"name": "boss127_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss127.png"
+		},
+		{
+			"name": "boss128_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss128.png"
+		},
+		{
+			"name": "boss129_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss129.png"
+		},
+		{
+			"name": "boss131_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss131.png"
+		},
+		{
+			"name": "boss132_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss132.png"
+		},
+		{
+			"name": "boss101_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss101.png"
+		},
+		{
+			"name": "boss102_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss102.png"
+		},
+		{
+			"name": "boss201_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss201.png"
+		},
+		{
+			"name": "boss202_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss202.png"
+		},
+		{
+			"name": "boss203_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss203.png"
+		},
+		{
+			"name": "boss301_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/boss301.png"
+		},
+		{
+			"name": "boss302_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/boss302.png"
+		},
+		{
+			"name": "boss303_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/boss303.png"
+		},
+		{
+			"name": "boss311_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/boss311.png"
+		},
+		{
+			"name": "boss312_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/boss312.png"
+		},
+		{
+			"name": "boss313_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/boss313.png"
+		},
+		{
+			"name": "boss314_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/boss314.png"
+		},
+		{
+			"name": "boss331_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/boss331.png"
+		},
+		{
+			"name": "boss332_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/boss332.png"
+		},
+		{
+			"name": "boss333_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/boss333.png"
+		},
+		{
+			"name": "boss334_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/boss334.png"
+		},
+		{
+			"name": "boss335_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/boss335.png"
+		},
+		{
+			"name": "boss322_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/boss322.png"
+		},
+		{
+			"name": "effect141_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/effect141.png"
+		},
+		{
+			"name": "effect142_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/effect142.png"
+		},
+		{
+			"name": "effect143_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/effect143.png"
+		},
+		{
+			"name": "effect144_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/effect144.png"
+		},
+		{
+			"name": "effect145_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/effect145.png"
+		},
+		{
+			"name": "effect146_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/effect146.png"
+		},
+		{
+			"name": "effect147_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/effect147.png"
+		},
+		{
+			"name": "effect148_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/effect148.png"
+		},
+		{
+			"name": "effect151_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/effect151.png"
+		},
+		{
+			"name": "effect152_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/effect152.png"
+		},
+		{
+			"name": "effect153_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/effect153.png"
+		},
+		{
+			"name": "effect154_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/effect154.png"
+		},
+		{
+			"name": "effect155_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/effect155.png"
+		},
+		{
+			"name": "effect156_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/effect156.png"
+		},
+		{
+			"name": "effect157_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/effect157.png"
+		},
+		{
+			"name": "effect158_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/effect158.png"
+		},
+		{
+			"name": "effect159_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/effect159.png"
+		},
+		{
+			"name": "Image-628_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/Image-628.png"
+		},
+		{
+			"name": "Image-630_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/Image-630.png"
+		},
+		{
+			"name": "Image-634_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/Image-634.png"
+		},
+		{
+			"name": "boss321_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/boss321.png"
+		},
+		{
+			"name": "effect171_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/effect171.png"
+		},
+		{
+			"name": "effect172_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/effect172.png"
+		},
+		{
+			"name": "effect173_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/effect173.png"
+		},
+		{
+			"name": "effect174_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/effect174.png"
+		},
+		{
+			"name": "effect175_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/effect175.png"
+		},
+		{
+			"name": "effect176_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/effect176.png"
+		},
+		{
+			"name": "effect1612_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/effect161.png"
+		},
+		{
+			"name": "effect162_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/effect162.png"
+		},
+		{
+			"name": "effect163_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/effect163.png"
+		},
+		{
+			"name": "effect164_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/effect164.png"
+		},
+		{
+			"name": "effect165_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/effect165.png"
+		},
+		{
+			"name": "effect166_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/effect166.png"
+		},
+		{
+			"name": "effect167_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/effect167.png"
+		},
+		{
+			"name": "effect181_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/effect181.png"
+		},
+		{
+			"name": "effect182_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/effect182.png"
+		},
+		{
+			"name": "effect183_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/effect183.png"
+		},
+		{
+			"name": "effect184_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/effect184.png"
+		},
+		{
+			"name": "effect191_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/effect191.png"
+		},
+		{
+			"name": "effect192_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/effect192.png"
+		},
+		{
+			"name": "effect193_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/effect193.png"
+		},
+		{
+			"name": "effect194_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/effect194.png"
+		},
+		{
+			"name": "effect195_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/effect195.png"
+		},
+		{
+			"name": "effect196_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/effect196.png"
+		},
+		{
+			"name": "effect197_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/effect197.png"
+		},
+		{
+			"name": "effect198_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/effect198.png"
+		},
+		{
+			"name": "effect185_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/effect185.png"
+		},
+		{
+			"name": "effect186_png",
+			"type": "image",
+			"url": "assets/Boss/Boss3/effect186.png"
+		},
+		{
+			"name": "boss103_png",
+			"type": "image",
+			"url": "assets/Boss/Boss1/boss103.png"
+		},
+		{
+			"name": "bg11_jpg",
+			"type": "image",
+			"url": "assets/Bg/bg11.jpg"
+		},
+		{
+			"name": "bg21_jpg",
+			"type": "image",
+			"url": "assets/Bg/bg21.jpg"
+		},
+		{
+			"name": "bg10_jpg",
+			"type": "image",
+			"url": "assets/Bg/bg10.jpg"
+		},
+		{
+			"name": "stopBg_png",
+			"type": "image",
+			"url": "assets/Bg/stopBg.png"
+		},
+		{
+			"name": "cd89dbc007db5f1cba776e11f8488c73_png",
+			"type": "image",
+			"url": "assets/Key/cd89dbc007db5f1cba776e11f8488c73.png"
+		},
+		{
+			"name": "asu_cut2out_png",
+			"type": "image",
+			"url": "assets/Menu/asu_cut2out.png"
+		},
+		{
+			"name": "left01_png",
+			"type": "image",
+			"url": "assets/Menu/left01.png"
+		},
+		{
+			"name": "right001_png",
+			"type": "image",
+			"url": "assets/Menu/right001.png"
+		},
+		{
+			"name": "bg31_jpg",
+			"type": "image",
+			"url": "assets/Bg/bg31.jpg"
+		},
+		{
+			"name": "bg20_jpg",
+			"type": "image",
+			"url": "assets/Bg/bg20.jpg"
+		},
+		{
+			"name": "bg30_jpg",
+			"type": "image",
+			"url": "assets/Bg/bg30.jpg"
+		},
+		{
+			"name": "menu1_png",
+			"type": "image",
+			"url": "assets/Menu/menu1.png"
+		},
+		{
+			"name": "menu2_png",
+			"type": "image",
+			"url": "assets/Menu/menu2.png"
+		},
+		{
+			"name": "menu3_png",
+			"type": "image",
+			"url": "assets/Menu/menu3.png"
+		},
+		{
+			"name": "menu4_png",
+			"type": "image",
+			"url": "assets/Menu/menu4.png"
+		},
+		{
+			"name": "player1_png",
+			"type": "image",
+			"url": "assets/Classic/player1.png"
+		},
+		{
+			"name": "player4_png",
+			"type": "image",
+			"url": "assets/Classic/player4.png"
+		},
+		{
+			"name": "player2_png",
+			"type": "image",
+			"url": "assets/Classic/player2.png"
+		},
+		{
+			"name": "player3_png",
+			"type": "image",
+			"url": "assets/Classic/player3.png"
+		},
+		{
+			"name": "bgClassic_png",
+			"type": "image",
+			"url": "assets/Classic/bgClassic.png"
+		},
+		{
+			"name": "bgPlayer_png",
+			"type": "image",
+			"url": "assets/Classic/bgPlayer.png"
+		},
+		{
+			"name": "classicLeft_png",
+			"type": "image",
+			"url": "assets/Classic/classicLeft.png"
+		},
+		{
+			"name": "classicRight_png",
+			"type": "image",
+			"url": "assets/Classic/classicRight.png"
+		},
+		{
+			"name": "classicStart_png",
+			"type": "image",
+			"url": "assets/Classic/classicStart.png"
+		},
+		{
+			"name": "classicLeft01_png",
+			"type": "image",
+			"url": "assets/Classic/classicLeft01.png"
+		},
+		{
+			"name": "classicRight01_png",
+			"type": "image",
+			"url": "assets/Classic/classicRight01.png"
+		},
+		{
+			"name": "53_png",
+			"type": "image",
+			"url": "assets/Classic/53.png"
+		},
+		{
+			"name": "classicItmeBg_png",
+			"type": "image",
+			"url": "assets/Classic/classicItmeBg.png"
+		},
+		{
+			"name": "classicItme_png",
+			"type": "image",
+			"url": "assets/Classic/classicItme.png"
+		},
+		{
+			"name": "classicSprint_png",
+			"type": "image",
+			"url": "assets/Classic/classicSprint.png"
+		},
+		{
+			"name": "classicShield_png",
+			"type": "image",
+			"url": "assets/Classic/classicShield.png"
+		},
+		{
+			"name": "classicDraw_png",
+			"type": "image",
+			"url": "assets/Classic/classicDraw.png"
+		},
+		{
+			"name": "btnBack_png",
+			"type": "image",
+			"url": "assets/Classic/btnBack.png"
+		},
+		{
+			"name": "fighter1_png",
+			"type": "image",
+			"url": "assets/Adventure/fighter1.png"
+		},
+		{
+			"name": "buy_png",
+			"type": "image",
+			"url": "assets/Classic/buy.png"
+		},
+		{
+			"name": "buy01_png",
+			"type": "image",
+			"url": "assets/Classic/buy01.png"
+		},
+		{
+			"name": "classicStart01_png",
+			"type": "image",
+			"url": "assets/Classic/classicStart01.png"
+		},
+		{
+			"name": "menu41_png",
+			"type": "image",
+			"url": "assets/Menu/menu41.png"
+		},
+		{
+			"name": "menu31_png",
+			"type": "image",
+			"url": "assets/Menu/menu31.png"
+		},
+		{
+			"name": "adventureStart01_png",
+			"type": "image",
+			"url": "assets/Adventure/adventureStart01.png"
+		},
+		{
+			"name": "adventureStart_png",
+			"type": "image",
+			"url": "assets/Adventure/adventureStart.png"
+		},
+		{
+			"name": "btnBack01_png",
+			"type": "image",
+			"url": "assets/Classic/btnBack01.png"
+		},
+		{
+			"name": "end1_png",
+			"type": "image",
+			"url": "assets/End/end1.png"
+		},
+		{
+			"name": "end2_png",
+			"type": "image",
+			"url": "assets/End/end2.png"
+		},
+		{
+			"name": "end3_png",
+			"type": "image",
+			"url": "assets/End/end3.png"
+		},
+		{
+			"name": "end4_png",
+			"type": "image",
+			"url": "assets/End/end4.png"
+		},
+		{
+			"name": "end7_png",
+			"type": "image",
+			"url": "assets/End/end7.png"
+		},
+		{
+			"name": "end8_png",
+			"type": "image",
+			"url": "assets/End/end8.png"
+		},
+		{
+			"name": "end5_png",
+			"type": "image",
+			"url": "assets/End/end5.png"
+		},
+		{
+			"name": "end6_png",
+			"type": "image",
+			"url": "assets/End/end6.png"
+		},
+		{
+			"name": "end9_png",
+			"type": "image",
+			"url": "assets/End/end9.png"
+		},
+		{
+			"name": "menu51_png",
+			"type": "image",
+			"url": "assets/Menu/menu51.png"
+		},
+		{
+			"name": "menu5_png",
+			"type": "image",
+			"url": "assets/Menu/menu5.png"
+		},
+		{
+			"name": "shop1_png",
+			"type": "image",
+			"url": "assets/Shop/shop1.png"
+		},
+		{
+			"name": "shop2_png",
+			"type": "image",
+			"url": "assets/Shop/shop2.png"
+		},
+		{
+			"name": "shop3_png",
+			"type": "image",
+			"url": "assets/Shop/shop3.png"
+		},
+		{
+			"name": "shop4_png",
+			"type": "image",
+			"url": "assets/Shop/shop4.png"
+		},
+		{
+			"name": "shop5_png",
+			"type": "image",
+			"url": "assets/Shop/shop5.png"
+		},
+		{
+			"name": "shop6_png",
+			"type": "image",
+			"url": "assets/Shop/shop6.png"
+		},
+		{
+			"name": "shop7_png",
+			"type": "image",
+			"url": "assets/Shop/shop7.png"
+		},
+		{
+			"name": "end10_png",
+			"type": "image",
+			"url": "assets/End/end10.png"
+		},
+		{
+			"name": "end11_png",
+			"type": "image",
+			"url": "assets/End/end11.png"
+		},
+		{
+			"name": "end12_png",
+			"type": "image",
+			"url": "assets/End/end12.png"
+		},
+		{
+			"name": "end13_png",
+			"type": "image",
+			"url": "assets/End/end13.png"
+		},
+		{
+			"name": "end15_png",
+			"type": "image",
+			"url": "assets/End/end15.png"
+		},
+		{
+			"name": "end14_png",
+			"type": "image",
+			"url": "assets/End/end14.png"
+		},
+		{
+			"name": "boss228_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss228.png"
+		},
+		{
+			"name": "boss229_png",
+			"type": "image",
+			"url": "assets/Boss/Boss2/boss229.png"
+		},
+		{
+			"name": "jump01_png",
+			"type": "image",
+			"url": "assets/Parkour/jump01.png"
+		},
+		{
+			"name": "jump02_png",
+			"type": "image",
+			"url": "assets/Parkour/jump02.png"
+		},
+		{
+			"name": "rocker1_png",
+			"type": "image",
+			"url": "assets/Parkour/rocker1.png"
+		},
+		{
+			"name": "rocker2_png",
+			"type": "image",
+			"url": "assets/Parkour/rocker2.png"
+		},
+		{
+			"name": "slide01_png",
+			"type": "image",
+			"url": "assets/Parkour/slide01.png"
+		},
+		{
+			"name": "slide02_png",
+			"type": "image",
+			"url": "assets/Parkour/slide02.png"
+		},
+		{
+			"name": "stop_png",
+			"type": "image",
+			"url": "assets/Parkour/stop.png"
+		},
+		{
+			"name": "agian_png",
+			"type": "image",
+			"url": "assets/Parkour/agian.png"
+		},
+		{
+			"name": "continue_png",
+			"type": "image",
+			"url": "assets/Parkour/continue.png"
+		},
+		{
+			"name": "label1_png",
+			"type": "image",
+			"url": "assets/Parkour/label1.png"
+		},
+		{
+			"name": "label2_png",
+			"type": "image",
+			"url": "assets/Parkour/label2.png"
+		},
+		{
+			"name": "menu_png",
+			"type": "image",
+			"url": "assets/Parkour/menu.png"
+		},
+		{
+			"name": "bossHpStrip_png",
+			"type": "image",
+			"url": "assets/Key/bossHpStrip.png"
+		},
+		{
+			"name": "fighterHpStrip_png",
+			"type": "image",
+			"url": "assets/Key/fighterHpStrip.png"
+		},
+		{
+			"name": "bossBg1_jpg",
+			"type": "image",
+			"url": "assets/Bg/bossBg1.jpg"
+		},
+		{
+			"name": "bossBg2_jpg",
+			"type": "image",
+			"url": "assets/Bg/bossBg2.jpg"
+		},
+		{
+			"name": "hpBg_png",
+			"type": "image",
+			"url": "assets/Key/hpBg.png"
+		},
+		{
+			"name": "hp_png",
+			"type": "image",
+			"url": "assets/Key/hp.png"
+		},
+		{
+			"name": "effect131_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect131.png"
+		},
+		{
+			"name": "effect132_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect132.png"
+		},
+		{
+			"name": "effect133_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect133.png"
+		},
+		{
+			"name": "effect134_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect134.png"
+		},
+		{
+			"name": "effect135_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect135.png"
+		},
+		{
+			"name": "effect136_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect136.png"
+		},
+		{
+			"name": "effect137_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect137.png"
+		},
+		{
+			"name": "effect138_png",
+			"type": "image",
+			"url": "assets/Fighter/fighter2/effect138.png"
+		},
+		{
+			"name": "fighter10_png",
+			"type": "image",
+			"url": "assets/Adventure/fighter10.png"
+		},
+		{
+			"name": "fighterBg_png",
+			"type": "image",
+			"url": "assets/Adventure/fighterBg.png"
+		},
+		{
+			"name": "shop8_png",
+			"type": "image",
+			"url": "assets/Shop/shop8.png"
+		},
+		{
+			"name": "grass_png",
+			"type": "image",
+			"url": "assets/Game/grass.png"
+		},
+		{
+			"name": "grassLand_png",
+			"type": "image",
+			"url": "assets/Game/grassLand.png"
+		},
+		{
+			"name": "land_png",
+			"type": "image",
+			"url": "assets/Game/land.png"
+		},
+		{
+			"name": "loadBg_jpg",
+			"type": "image",
+			"url": "assets/Game/loadBg.jpg"
+		},
+		{
+			"name": "bgMusic_mp3",
+			"type": "sound",
+			"url": "assets/Music/bgMusic.mp3"
+		},
+		{
+			"name": "runMusic_mp3",
+			"type": "sound",
+			"url": "assets/Music/runMusic.mp3"
+		},
+		{
+			"name": "music_png",
+			"type": "image",
+			"url": "assets/Menu/music.png"
+		},
+		{
+			"name": "music01_png",
+			"type": "image",
+			"url": "assets/Menu/music01.png"
+		},
+		{
+			"name": "pkMusicBg_mp3",
+			"type": "sound",
+			"url": "assets/Music/pkMusicBg.mp3"
+		},
+		{
+			"name": "pkMusic_mp3",
+			"type": "sound",
+			"url": "assets/Music/pkMusic.mp3"
+		},
+		{
+			"name": "stop01_png",
+			"type": "image",
+			"url": "assets/Key/stop01.png"
+		},
+		{
+			"name": "level_png",
+			"type": "image",
+			"url": "assets/Adventure/level.png"
+		},
+		{
+			"name": "level2_png",
+			"type": "image",
+			"url": "assets/Adventure/level2.png"
+		},
+		{
+			"name": "level3_png",
+			"type": "image",
+			"url": "assets/Adventure/level3.png"
+		},
+		{
+			"name": "level1_png",
+			"type": "image",
+			"url": "assets/Adventure/level1.png"
+		},
+		{
+			"name": "levelBg_png",
+			"type": "image",
+			"url": "assets/Adventure/levelBg.png"
+		},
+		{
+			"name": "levelEffect_png",
+			"type": "image",
+			"url": "assets/Adventure/levelEffect.png"
+		},
+		{
+			"name": "success_png",
+			"type": "image",
+			"url": "assets/Adventure/success.png"
+		},
+		{
+			"name": "fail_png",
+			"type": "image",
+			"url": "assets/Adventure/fail.png"
+		}
+	]
+}

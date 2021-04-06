@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Rocker_" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group id="rocker" width="640" height="720" x="0" y="0">
+		<e:Image id="rockerOut" x="200" y="520" anchorOffsetX="128" anchorOffsetY="128" alpha="0.5" source="rocker2_png"/>
+		<e:Image id="rockerIn" x="200" y="520" anchorOffsetX="64" anchorOffsetY="64" alpha="0.5" source="rocker1_png"/>
+	</e:Group>
+</e:Skin>
